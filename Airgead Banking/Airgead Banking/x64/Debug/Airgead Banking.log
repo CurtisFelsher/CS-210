@@ -1,0 +1,5 @@
+﻿  Interest.cpp
+  main.cpp
+C:\Users\bruta\source\repos\Airgead Banking\Airgead Banking\main.cpp(59,25): warning C4101: 'error': unreferenced local variable
+  Generating Code...
+  Airgead Banking.vcxproj -> C:\Users\bruta\source\repos\Airgead Banking\x64\Debug\Airgead Banking.exe
