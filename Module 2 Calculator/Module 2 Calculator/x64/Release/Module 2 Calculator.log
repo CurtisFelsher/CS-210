@@ -1,0 +1,8 @@
+﻿  CalculatorFixed.cpp
+C:\Users\bruta\source\repos\Module 2 Calculator\Module 2 Calculator\CalculatorFixed.cpp(16,7): warning C4101: 'statement': unreferenced local variable
+  Generating code
+  1 of 18 functions ( 5.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Module 2 Calculator.vcxproj -> C:\Users\bruta\source\repos\Module 2 Calculator\x64\Release\Module 2 Calculator.exe
