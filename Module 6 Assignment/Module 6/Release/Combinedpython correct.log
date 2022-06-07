@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\bruta\source\repos\Module 6 Assignment\Combinedpython correct\Source.cpp(179,25): warning C4101: 'error': unreferenced local variable
+C:\Users\bruta\source\repos\Module 6 Assignment\Combinedpython correct\Source.cpp(217,25): warning C4101: 'error': unreferenced local variable
+C:\Users\bruta\source\repos\Module 6 Assignment\Combinedpython correct\Source.cpp(270,25): warning C4101: 'error': unreferenced local variable
+  Generating code
+  3 of 89 functions ( 3.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Combinedpython correct.vcxproj -> C:\Users\bruta\source\repos\Module 6 Assignment\Release\Combinedpython correct.exe
