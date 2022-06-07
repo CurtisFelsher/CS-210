@@ -1,0 +1,1 @@
+Reads from a simple .txt file and converts C to F. Then outputs conversions to a new file that is created in the process.
