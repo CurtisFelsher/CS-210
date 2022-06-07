@@ -1,0 +1,6 @@
+Toronto 8.33333 Celsius
+Lima 18.8889 Celsius
+Istanbul 13.8889 Celsius
+Lagos 27.2222 Celsius
+Shanghai 16.1111 Celsius
+Sydney 17.7778 Celsius
